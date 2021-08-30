@@ -21,31 +21,31 @@ Just remember. You are early in Crypto, and usually being early pays very well. 
 
 #### ETH Main Net
 
-Scan <https://etherscan.io/>
-Swap <https://app.uniswap.org> (autoswitches network)
+* Scan <https://etherscan.io/>
+* Swap <https://app.uniswap.org> (autoswitches network)
 
 #### Binance Smart Chain Main Net
 
-Scan <https://bscscan.com/>
-Swap <https://pancakeswap.finance>
+* Scan <https://bscscan.com/>
+* Swap <https://pancakeswap.finance>
 
 #### Binance Smart Chain Test Net
 
-Scan <https://testnet.bscscan.com/>
-Swap <https://pancake.kiemtienonline360.com/#/swap>
+* Scan <https://testnet.bscscan.com/>
+* Swap <https://pancake.kiemtienonline360.com/#/swap>
 
 #### Ropsten
 
-Scan <https://ropsten.etherscan.io/> Ropsten
-Swap <https://app.uniswap.org> (autoswitches network)
+* Scan <https://ropsten.etherscan.io/> Ropsten
+* Swap <https://app.uniswap.org> (autoswitches network)
 
 #### Rinkeby
 
-Scan <https://rinkeby.etherscan.io/> Rinkeby
-Swap <https://app.uniswap.org> (autoswitches network)
+* Scan <https://rinkeby.etherscan.io/> Rinkeby
+* Swap <https://app.uniswap.org> (autoswitches network)
 
 #### Kovan
 
-Scan <https://kovan.etherscan.io/>
-Swap <https://app.uniswap.org> (autoswitches network)
+* Scan <https://kovan.etherscan.io/>
+* Swap <https://app.uniswap.org> (autoswitches network)
 
