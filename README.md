@@ -65,8 +65,8 @@ Coins
 * Faucet <https://faucet.rinkeby.io/>
 
 Coins
-* WETH 0xc778417e063141139fce010982780140aa0cd5ab
-* UNI 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984
+
+* Coins <https://v2.info.uniswap.org/tokens>
 
 
 #### Kovan
